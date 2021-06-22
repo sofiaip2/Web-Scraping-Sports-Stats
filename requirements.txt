@@ -1,4 +1,8 @@
 bs4
 pytest
 pylint
+<<<<<<< HEAD
 pandas
+=======
+pandas
+>>>>>>> 5e524640b3788ccd9d7fa4eec863368439ad14e6
